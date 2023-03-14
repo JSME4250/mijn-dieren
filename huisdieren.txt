@@ -2,3 +2,4 @@ Nero
 Nala
 milo
 monty
+cosmo
